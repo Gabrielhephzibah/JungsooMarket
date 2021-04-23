@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">JungsooMarketApp</string>
+    <string name="Add">Add</string>
+    <string name="total_amount">Total amount: $0</string>
+    <string name="enter_value">Please enter a value</string>
+    <string name="enter_a_value">Enter a value</string>
+    <string name="price">$2000</string>
+    <string name="name">TOMATOES</string>
+    <string name="cancel">Cancel</string>
+    <string name="hint">Enter Item Identifier from 1 – 10</string>
+    <string name="button_text">View</string>
+    <string name="image_error">Image failed to load</string>
+    <string name="value_error">Enter value from 1 - 10</string>
+
+</resources>
